@@ -1,4 +1,7 @@
-body {
-  background-color: black;
-  margin: 2px;
+
+body{
+    color: blue;
+    font-style: italic;
+    font-size: 10px;
 }
+
